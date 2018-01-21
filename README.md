@@ -22,4 +22,5 @@ The GNU profiler, 用來找出程式中`執行`時***熱點***所在（消耗最
     * 也評估了每個 function 花費在其 subroutines 上面的時間
     * 很適合用在花費大量時間的程式上，找出熱點並分析改善之（`更換演算法`, `修改資料結構`等等）
 
-> 參考資料來源 [1] ：http://www.math.utah.edu/docs/info/gprof_toc.html
+> 參考資料來源 [1] :http://www.math.utah.edu/docs/info/gprof_toc.html
+> 參考資料來源 [2] (如何透過 flag 指定來做不同的操作) :https://www.thegeekstuff.com/2012/08/gprof-tutorial 
